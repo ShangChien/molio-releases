@@ -1,0 +1,24 @@
+[
+  {
+    "tag_name": "desktop-v0.1.0-preview.1",
+    "html_url": "https://github.com/ShangChien/molio-releases/releases/tag/desktop-v0.1.0-preview.1",
+    "draft": false,
+    "assets": [
+      {
+        "name": "Molio-macOS-arm64.dmg",
+        "size": 7301118,
+        "browser_download_url": "https://github.com/ShangChien/molio-releases/releases/download/desktop-v0.1.0-preview.1/Molio-macOS-arm64.dmg"
+      },
+      {
+        "name": "Molio-Windows-x64.exe",
+        "size": 5748737,
+        "browser_download_url": "https://github.com/ShangChien/molio-releases/releases/download/desktop-v0.1.0-preview.1/Molio-Windows-x64.exe"
+      },
+      {
+        "name": "SHA256SUMS.txt",
+        "size": 176,
+        "browser_download_url": "https://github.com/ShangChien/molio-releases/releases/download/desktop-v0.1.0-preview.1/SHA256SUMS.txt"
+      }
+    ]
+  }
+]
